@@ -61,7 +61,7 @@
 - useEffect
 - useContext
 - useRef
-- usReducer
+- useReducer
 - useCallback
 - useMemo
 
